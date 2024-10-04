@@ -1,0 +1,120 @@
+ body {
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+ }
+ img{
+    width: 300px;
+ }
+ h1 {
+    position: sticky;
+    top: 0;
+    padding: 5px;
+ }
+ .BCCILogo {
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    top: 10px;
+    right: 0px;
+
+ }
+.teamplayersImage {
+    width: 150px;
+    height: 150px;
+    opacity: 0.3;
+}
+ #rohitSharma {
+    position: relative;
+    left: 400px;
+    z-index: 4;   
+ }
+ #jaspritBumrah {
+    position: relative;
+    right: 120px;
+    z-index: 2;
+ }
+ #ravindraJadeja {
+    position: relative;
+    right: 330px;
+    z-index: 1;   
+ }
+ #viratKohli {
+    position: relative;
+    z-index: 3;
+ }
+ #ravichandranAshwin {
+    position: relative;
+    left: 220px;
+    z-index: 6;
+ }
+ #mohammedSiraj {
+    position: relative;
+    left: 180px;
+    z-index: 4;
+ }
+ #KLRahul {
+    position: relative;
+    left: 20px;
+    z-index: 3;
+ }
+ #shubmanGill {
+    position: relative;
+    right: 150px;
+    z-index: 2;
+ }
+ #mohammedShami {
+    position: relative;
+    bottom: 304.4px;
+    left: 350px;
+    z-index: 5;
+ }
+ #hardikPandya {
+    position: relative;
+    bottom: 304.4px;
+    left: 600px;
+    z-index: 1;
+ }
+#axarPatel {
+    position: relative;
+    left: 680px;
+    z-index: 2;
+}
+#yashasviJaiswal {
+    position: relative;
+    left: 520px;
+    z-index: 1;
+}
+#kuldeepYadav {
+    position: relative;
+    right: 80px;
+    z-index: 3;
+}
+#suryaKumarYadav {
+    position: relative;
+    right: 680px;
+    z-index: 5;
+}
+#rishabhPant {
+    position: relative;
+    bottom: 304.4px;
+    left: 380px;
+    z-index: 4;
+ }
+ p {
+    text-align: justify;
+    /* display: inline-block; */
+ }
+ /* .relativeDiv {
+    width: 400px;
+    height: 600px;
+    display: inline-block;
+   border: 2px solid whitesmoke; 
+    position: relative;
+}
+.absolute {
+    width: 450px;
+    height: 200px;
+    border: 2px solid whitesmoke;
+    position: absolute;
+    top: 80px;
+    right: 0px;
+}*/
