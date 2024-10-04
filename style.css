@@ -4,7 +4,8 @@
  img{
     width: 300px;
  }
- h1 {
+ .BCCIHeading {
+    background-color: #33ccff;
     position: sticky;
     top: 0;
     padding: 5px;
